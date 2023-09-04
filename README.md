@@ -1,6 +1,9 @@
 # reddit_scraper
 # Reddit Subreddit Scraper
 
+## First
+Feel free to jump in and help us make this project even better! We'd love your contributions.
+
 ## Getting Started
 This Python script is designed to scrape posts from a Reddit subreddit and save them to a SQLite database. It allows you to collect data such as post ID, title, score, author, date, and associated URL.
 
@@ -31,4 +34,4 @@ The script creates an SQLite database with a table named "posts" to store the sc
 
 ## Author
 
-- [SeasonedCode](https://github.com/)
+- [SeasonedCode](https://github.com/ZakariaMQ)
