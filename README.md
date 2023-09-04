@@ -31,4 +31,4 @@ The script creates an SQLite database with a table named "posts" to store the sc
 
 ## Author
 
-- [SeasonedCode](https://github.com/yourusername)
+- [SeasonedCode](https://github.com/)
